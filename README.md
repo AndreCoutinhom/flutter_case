@@ -1,5 +1,17 @@
+---
+
 ![image](https://github.com/AndreCoutinhom/flutter_case/assets/91290799/6e83c60b-06ac-44da-b994-b32593609386)
 
+---
+### Tópicos:
+> Desenvolvimento Mobile
+>
+> Front-end
+> 
+> Flutter
+>
+> Programação
+---
 Desejamos boas-vindas para você que vai mergulhar em mais um case com a gente!
 
 Pegue um café, respire fundo e vamos lá:
@@ -57,5 +69,21 @@ Augusto nos conta sobre todo o processo de adoção desta tecnologia, desde o qu
 
 ### [Release Train](/release_train.pdf)
 
+> O artigo redata sobre *deployment* contínuo para aplicações mobile.
 
+* [**GitHub Actions**](https://docs.github.com/pt/actions) foi muito usado para automatização das releases 
 
+---
+
+* O Quinto Andar tem um programa de treinamento para **Flutter**.
+
+---
+
+* São raras as pessoas que trabalham com **Flutter**.
+---
+## Materiais para Estudo
+
+* [**CURSO**: FORMAÇÃO FLUTTER](https://www.alura.com.br/formacao-flutter?_gl=1*n9bxeq*_ga*ODM1Nzk2OTUyLjE2OTgzNDc1Mjk.*_ga_1EPWSW3PCS*MTcwMTUxODkzMi40MS4xLjE3MDE1MTg5MzMuMC4wLjA.*_fplc*YWFVZHhVMDdrSmglMkJLelZNU2xyUGlqWHVoNUt4RmtDbXZrcGxlYnVURjBacDIyZzVEd3pKNkF6Wm5YRkxGJTJCJTJGSXRpSTloUzhNd2x3ZEE2TFYzVHlJNTQ1N051aVc0U29HbmdpdUU2Rkw4c0JBWk4lMkJVRzZHdnNaJTJCRlhrJTJCSVRRJTNEJTNE)
+* [**ALURA+**: FLUTTER E O DESENVOLVIMENTO MOBILE](https://cursos.alura.com.br/conhecendo-o-flutter-e-uma-visao-do-desenvolvimento-mobile-hoje-c4)
+* [**ALURA+**: FLUTTER 2.0](https://cursos.alura.com.br/flutter-2-0-c840)
+* [**HIPSTERS.TECH**: FLUTTER](https://www.alura.com.br/podcast/hipsterstech-flutter-hipsters-183-a380?_gl=1*ei07yk*_ga*ODM1Nzk2OTUyLjE2OTgzNDc1Mjk.*_ga_1EPWSW3PCS*MTcwMTUxODkzMi40MS4xLjE3MDE1MTg5MzMuMC4wLjA.*_fplc*YWFVZHhVMDdrSmglMkJLelZNU2xyUGlqWHVoNUt4RmtDbXZrcGxlYnVURjBacDIyZzVEd3pKNkF6Wm5YRkxGJTJCJTJGSXRpSTloUzhNd2x3ZEE2TFYzVHlJNTQ1N051aVc0U29HbmdpdUU2Rkw4c0JBWk4lMkJVRzZHdnNaJTJCRlhrJTJCSVRRJTNEJTNE)
