@@ -26,7 +26,7 @@ Neste case, Augusto Souza, software engineer manager da Quinto Andar, startup fo
 
 Augusto nos conta sobre todo o processo de adoção desta tecnologia, desde o que fez a empresa tomar a decisão de migrar, passando pela fase de implementação, até chegar nos resultados atuais.
 
-## Notas
+---
 
 * A experiência do Quinto Andar é altamente baseada no navegador pelo mobile.
 ---
